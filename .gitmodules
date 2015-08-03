@@ -1,0 +1,3 @@
+[submodule "lib/tuque"]
+	path = lib/tuque
+	url = https://github.com/Islandora/tuque.git
